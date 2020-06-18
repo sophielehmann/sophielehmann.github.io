@@ -10,3 +10,7 @@ Asterix und Obelix! Und natuerlich das Huendchen Idefix.
 * Wildschweine fangen
 * Alles essen, was man ihnen vorsetzt
 * Durch Hilfe des Zaubertrankes
+
+Natuerlich ist der Lieblingsspruch
+
+> Die spinnen, die Roemer!
