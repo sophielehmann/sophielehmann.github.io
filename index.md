@@ -1,1 +1,1 @@
-# Platz da für Asterix und Obelix!
+# Platz da fuer Asterix und Obelix!
