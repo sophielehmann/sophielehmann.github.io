@@ -5,7 +5,7 @@ Die ganze welt? Nein, nicht die ganze :-) Ganz oben in der Ecke ist noch ein fre
 nicht verseuchtes Dorf. Und dort wohnen wie immer meine Helden. 
 Asterix und Obelix! Und natürlich das Hündchen Idefix. 
 
-## Asterix und Obelix koennen alles
+## Asterix und Obelix können alles
 * Römer besiegen
 * Wildschweine fangen
 * Alles essen, was man ihnen vorsetzt
